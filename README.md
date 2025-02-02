@@ -1,6 +1,6 @@
 # My Responsive Portfolio Website
 
-Welcome to my responsive portfolio website. This site showcases the works and skills of Himaanshu Sharma, a web developer and data analyst.
+Welcome to my responsive portfolio website. This site showcases the my works and skills .
 
 ## Table of Contents
 
