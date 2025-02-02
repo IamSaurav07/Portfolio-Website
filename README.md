@@ -16,7 +16,7 @@ Welcome to my responsive portfolio website. This site showcases the works and sk
 
 ## Demo
 
-You can view a live demo of the website [[here](https://himaan.netlify.app/#)].
+You can view a live demo of the website [[here](https://iamsaurav.netlify.app/#)].
 
 ## Features
 
