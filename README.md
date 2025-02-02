@@ -1,6 +1,6 @@
-# Himaan's Responsive Portfolio Website
+# My Responsive Portfolio Website
 
-Welcome to Himaan's responsive portfolio website. This site showcases the works and skills of Himaanshu Sharma, a web developer and data analyst.
+Welcome to my responsive portfolio website. This site showcases the works and skills of Himaanshu Sharma, a web developer and data analyst.
 
 ## Table of Contents
 
@@ -43,17 +43,7 @@ To get a local copy up and running follow these simple steps:
 
 You need to have a basic understanding of HTML, CSS, and JavaScript.
 
-### Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-repo-name
-    ```
-3. Open `index.html` in your browser to view the website.
 
 ## Usage
 
@@ -69,32 +59,6 @@ You need to have a basic understanding of HTML, CSS, and JavaScript.
 ├── assets
 │   ├── css
 │   │   └── styles.css
-│   ├── img
-│   │   ├── favicon.png
-│   │   ├── LinkedIn-Photoroom-removebg-preview.png
-│   │   ├── FreshFeast.png
-│   │   ├── Weather.jpg
-│   │   ├── Image Search.jpg
-│   │   ├── sentiment.jpg
-│   │   ├── stock prediction.jpg
-│   │   ├── info-html.svg
-│   │   ├── info-css.svg
-│   │   ├── info-javascript.svg
-│   │   ├── info-react.svg
-│   │   ├── nodejs.svg
-│   │   ├── expressjs.svg
-│   │   ├── info-git.svg
-│   │   ├── info-github.svg
-│   │   ├── info-tailwind-css.svg
-│   │   ├── info-sass.svg
-│   │   ├── info-figma.svg
-│   │   ├── java.svg
-│   │   ├── python-5.svg
-│   │   ├── excel-4.svg
-│   │   ├── tableau-software.svg
-│   │   ├── aws.svg
-│   │   ├── docker.svg
-│   │   └── kubernetes.svg
 │   ├── js
 │   │   ├── scrollreveal.min.js
 │   │   └── main.js
